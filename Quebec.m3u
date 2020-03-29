@@ -46,5 +46,13 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="Canadian TV",TCM-TV
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
+#EXTINF:-1 tvg-id="Canada" tvg-name="Télé-Mag Québec" tvg-
+logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Canada",Télé-Mag Québec (YT)
+plugin://plugin.video.youtube/play/?video_id=Ctm-7JcJ5HM
+#EXTINF:-1 tvg-id="canada" tvg-name="TVC9" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Canada",TVC9 (YT)
+plugin://plugin.video.youtube/play/?video_id=-rY5-9ueM00
+
+
+
 
 

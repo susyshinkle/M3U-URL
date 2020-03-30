@@ -1,6 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg- logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN HD
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
-#EXTINF:-1 tvg- logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Canadian TV",LCN 720
-https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/low_720p/low_720p.m3u8

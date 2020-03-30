@@ -1,8 +1,0 @@
-﻿#EXTM3U
-
-#EXTINF:-1 tvg- logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Low
-https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/low_720p/low_720p.m3u8
-#EXTINF:-1 tvg- logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa HD
-https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/high_1080p/high_1080p.m3u8
-#EXTINF:-1 tvg- logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Med
-https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/med_720p/med_720p.m3u8

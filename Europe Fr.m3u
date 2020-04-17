@@ -307,7 +307,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xgepjr
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21
-http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/15.m3u8
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x2lefik
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="France",Lèeekô TV

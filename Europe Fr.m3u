@@ -397,6 +397,10 @@ http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 #EXTINF:-1 tvg-id="France" tvg-name="RV1" tvg-logo="https://i.ibb.co/kS2Pdf2/RV1.png" group-title="France",RV1 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6mw7oz
 
+# update link : https://sikkatv.info/ #
+#EXTINF:-1 tvg-id="France" tvg-name="Sikka TV" tvg-logo="https://sikkatv.info/wp-content/uploads/2014/10/SIKKA-OK.png" group-title="France",Sikka TV (YT)
+plugin://plugin.video.youtube/play/?video_id=S-dMwiuvqLM
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0

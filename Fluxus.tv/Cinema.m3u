@@ -1,0 +1,139 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema - French
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free VOD
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= JUL-12-2018
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70024092.jpg" group-title="2005",March of the Penguins (2005)
+https://archive.org/download/March.of.the.Penguins.2005.x264.720p.DualAudio.ENFR/March.of.the.Penguins.2005.x264.720p.DualAudio.EN-FR.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/56/11/18406682.jpg" group-title="1964",L'Age Ingrat (1964)
+https://archive.org/download/LgeIngrat1964/L'%C3%82ge%20ingrat%201964.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-IHLK8Ui8wDc/U-SWFRuyQJI/AAAAAAAAFQY/04IrGaNzWQ8/s1600/morirenmadrid1962_españa.jpg" group-title="1963",Mourir a Madrid (1963)
+https://archive.org/download/MourirMadrid1963/Mourir%20%C3%A0%20Madrid%201963.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/x5h9U6JBDgEvFYhkm9COqfvmK38.jpg" group-title="1962",Le Crime ne paie pas (1962)
+https://archive.org/download/LeCrimeNePaiePas1962/Le%20Crime%20ne%20Paie%20Pas%201962.mp4
+
+#EXTINF:-1 tvg-logo="http://www.rimesetrecits.fr/GABIN/IMAGES/GRANDLEBARONDELECLUSE.jpg" group-title="1960",Le Baron de l'ecluse (1960)
+https://archive.org/download/LeBaronDeLcluse1960/Le%20Baron%20de%20l%27%C3%A9cluse%201960.mp4
+
+#EXTINF:-1 tvg-logo="http://rarefilm.net/wp-content/uploads/2015/09/Rue-des-Prairies-1959.jpg" group-title="1959",Rue des prairies (1959)
+https://archive.org/download/RueDesPrairies1959/Rue%20Des%20Prairies%201959.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/cd/e8/c3/cde8c35b5c299fdb8438e738bbe91d78.jpg" group-title="1959",La Vache et le prisonnier (1959)
+https://archive.org/download/LaVacheEtLePrisonnier1959/La%20Vache%20et%20le%20Prisonnier%201959.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/35/56/13/18406690.jpg" group-title="1958",La Vie a deux (1958)
+https://archive.org/download/LaVieDeux1958/La%20Vie%20%C3%A0%20Deux%201958.mp4
+
+#EXTINF:-1 tvg-logo="http://medias.unifrance.org/medias/159/158/106143/format_page/media.jpg" group-title="1957",Quand la femme s'en mele (1957)
+https://archive.org/download/QuandLaFemmeSenMele1957/Quand%20la%20femme%20s%27en%20m%C3%AAle%201957.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4sA73uo.jpg" group-title="1955,Les Duraton (1955)
+https://archive.org/download/LesDuraton1955/Les%20Duraton%201955.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-XAV-Gm_ZSQg/UiNbjzdgwTI/AAAAAAAANdo/M3t75xAfm5c/s1600/aff_les_impures-01.jpg" group-title="1954",Les Impures (1954)
+https://archive.org/download/LesImpures1954/Les%20impures%201954.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/leur_derniere_nuit-750174557-large.jpg" group-title="1953",Leur derniere nuit (1953)
+https://archive.org/download/LeurDerniereNuit1953/Leur%20Derni%C3%A8re%20Nuit%201953.mp4
+
+#EXTINF:-1 tvg-logo="http://ekladata.com/ldDapOGSyE4PbCStvqWrpCJP6HY.png" group-title="1952",Les Amants maudits (1952)
+https://archive.org/download/LesAmantsMaudits1952/Les%20Amants%20Maudits%201952.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cinemapassion.com/lesaffiches/Le-Plaisir-20111202010741.jpg" group-title="1952",Le Plaisir (1952)
+https://archive.org/download/LePlaisir1952/Le%20Plaisir%201952.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/monsieur_fabre-249788521-large.jpg" group-title="1951",Monsieur Fabre (1951)
+https://archive.org/download/MonsieurFabre1951/Monsieur%20Fabre%201951.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/La_marie_du_port_poster.jpg/220px-La_marie_du_port_poster.jpg" group-title="1950",La Marie du port (1950)
+https://archive.org/download/LaMarieDuPort1950/La%20Marie%20du%20Port%201950.mp4
+
+#EXTINF:-1 tvg-logo="https://www.cinemotions.com/data/films/0537/11/1/affiche-L-Ecole-buissonniere-1949-1.jpg" group-title="1949",L'ecole buissonniere (1949)
+https://archive.org/download/LecoleBuissonniere1949/L%27%C3%A9cole%20buissonni%C3%A8re%201949.mp4
+
+#EXTINF:-1 tvg-logo="http://www.201267.net/docs/1947-00002.jpg" group-title="1947",Six heures a perdre (1947)
+https://archive.org/download/SixHeuresAPerdre1947/Six%20heures%20%C3%A0%20perdre%201947.mp4
+
+#EXTINF:-1 tvg-logo="https://www.petiteceinture.org/IMG/jpg/les-portes-de-la-nuit-original.jpg" group-title="1946",Les Portes de la nuit (1946)
+https://archive.org/download/LesPortesDeLaNuit1946/Les%20Portes%20de%20la%20Nuit%201946.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cineol.net/galeria/carteles/bigtmp_27773.jpg" group-title="1946",Martin Roumagnac (1946)
+https://archive.org/download/MartinRoumagnac1946/Martin%20Roumagnac%201946.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OHE7ASt.jpg" group-title="1944",Le Carrefour des enfants perdus (1944)
+https://archive.org/download/LeCarrefourDesEnfantsPerdus1944/Le%20Carrefour%20Des%20Enfants%20Perdus%201944.mp4
+
+#EXTINF:-1 tvg-logo="https://modl2212.files.wordpress.com/2012/02/la_duchesse-04.jpg" group-title="1942",La Duchesse de Langeais (1942)
+https://archive.org/download/LaDuchesseDeLangeais1942/La%20Duchesse%20de%20Langeais%201942.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BGHLosl.jpg" group-title="1940",Becassine (1940)
+https://archive.org/download/Bcassine1940/B%C3%A9cassine%201940.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Regain_poster.jpg/220px-Regain_poster.jpg" group-title="1937",Regain (1937)
+https://archive.org/download/Regain1937/Regain%201937.mp4
+
+#EXTINF:-1 tvg-logo="http://www.dvdclassik.com/upload/images/affiches/la-belle-equipe1.jpg" group-title="1936",La Belle equipe (1936)
+https://archive.org/download/LaBellequipe1936/La%20Belle%20%C3%89quipe%201936.mp4
+
+#EXTINF:-1 tvg-logo="https://olivierpere.files.wordpress.com/2011/11/affiche-de-la-bandera.jpg" group-title="1935",La Bandera (1935)
+https://archive.org/download/LaBandera1935/La%20Bandera%201935.mp4
+
+#EXTINF:-1 tvg-logo="http://medias.unifrance.org/medias/92/73/84316/format_page/media.jpg" group-title="1934",Zouzou (1934)
+https://archive.org/download/Zouzou1934/Zouzou%201934.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7wXTtnD.jpg" group-title="1932",Coeurs joyeux (1932)
+https://archive.org/download/CoeursJoyeux1932/Coeurs%20joyeux%201932.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mGm1FHS.jpg" group-title="1930",Chacun sa chance (1930)
+https://archive.org/download/ChacunSaChance1930/Chacun%20sa%20chance%201930.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="1912",L'antique Tolede (1912)
+https://archive.org/download/LantiqueTolde/SegundoDeChomnLantiqueTolede1912OldTolede_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="1912",L'Iris fantastique (1912)
+https://archive.org/download/LirisFantastique/SegundoDeChomn-LirisFantastique1912_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/3/9/4/5/6/139456-le-voleur-invisible-0-230-0-345-crop.jpg" group-title="1909",Le Voleur invisible (1909)
+https://archive.org/download/LeVoleurInvisible/1909SegundoDeChomnLeVoleurInvisibletheInvisiibleThief.mp4
+
+#EXTINF:-1 tvg-logo="http://filmographie.fondation-jeromeseydoux-pathe.com/docannexe/image/5619/978-small250.jpg" group-title="1909",Le Petit Poucet (1909)
+https://archive.org/download/LePetitPoucet_733/1909SegundoDeChomonLePetitPoucettomThumb.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="1909",Le Theatre electrique de Bob (1909)
+https://archive.org/download/LeThtrelectriqueDeBob/1909SegundoDeChomnLeThtrelectriqueDeBobbobsElectricTheatre.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/3/9/4/3/2/139432-an-awful-symphony-0-150-0-225-crop.jpg" group-title="1909",Symphonie Bizarre (1909)
+https://archive.org/download/SymphonieBizarre/1909SegundoDeChomon-SymphonieBizarrebizzareSymphonyFragment.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mymoviepicker.com/images/medium/159715.jpg" group-title="1908",Creation de la serpentine (1908)
+https://archive.org/download/CrationDeLaSerpentine/SegundoDeChomnCrationDeLaSerpentine1908CreationOfTheSerpentine_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ytFR8wwJPDKQhVGaYha901RcgHC.jpg" group-title="1908",Les Lunatiques (1908)
+https://archive.org/download/LesLunatiques/SegundoDeChomnLesLunatiques1908_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="1908",Les Papillons japonais (1908)
+https://archive.org/download/LesPapillonsJaponais/SegundoDeChomnLesPapillonsJaponais1908_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://aws1.vdkimg.com/film/1/3/1/9/1319481_poster_scale_188x250.jpg" group-title="1907",L'etang enchante (1907)
+https://archive.org/download/LtangEnchant/1907SegundoDeChomnLtangEnchantfragment.mp4
+
+#EXTINF:-1 tvg-logo="http://www.mymoviepicker.com/images/medium/160803.jpg" group-title="1907",Les Kiriki acrobates japonais (1907)
+https://archive.org/download/LesKirikiAcrobatesJaponais/SegundoDeChomnLesKirikiAcrobatesJaponais1907_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/4/1/0/8/5/141085-easter-eggs-0-230-0-345-crop.jpg" group-title="1907",Les Oeufs de Paques (1907)
+https://archive.org/download/LesOeufsDePaques/SegundoDeChomon-LesOeufsDePaques1907_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="1906",L'ecrin du raja (1906)
+https://archive.org/download/LcrinDuRaja/GastonVelleLecrinDuRaja1906TheKingsCasket-EffectsBySegundoDeChomon_512kb.mp4

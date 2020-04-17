@@ -1,0 +1,235 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv",* Fluxus.tv
+https://fluxustv.blogspot.com@bit.ly/FluxusRelax?.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7U0reh.png" group-title="+ CCTV Playlist",+ CCTV Playlist
+https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DonjeJR.png" group-title="- Update: 03.11.2020",- Update: 03.11.2020
+https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H6p12AJ.png" group-title="USA",Baltimore (MD) (Shark Aquarium)
+https://videos3.earthcam.com/fecnetwork/nabtrcam1.flv/chunklist_w2016950716.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CxHTlf3.png" group-title="USA",Baltimore (MD) (Tropical Aquarium)
+https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Rnxn5a9.png" group-title="USA",Coldwater (MI)
+http://66.231.56.22:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/npL49f3.png" group-title="USA",Fairfield (MT) (Ski Slopes)
+http://76.75.8.116:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rmkuKEZ.png" group-title="USA",Ft. Lauderdale (FL) (Marina)
+https://videos3.earthcam.com/fecnetwork/8891.flv/chunklist_w2089501293.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R5H0BlF.png" group-title="USA",Herndon (VA) (Midway Home Service)
+http://71.41.73.146:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xEeTl4y.png" group-title="USA",Los Angeles (CA) (Hollywood Blvd)
+https://videos3.earthcam.com/fecnetwork/lacitytours1.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1swX4v4.png" group-title="USA",Martin (TN) (Elam Center)
+http://208.87.72.176:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9hQdbIp.png" group-title="USA",New Orleans (LA) (Bourbon St. 1)
+https://videos3.earthcam.com/fecnetwork/4280.flv/chunklist_w1926261271.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PkSl4jK.png" group-title="USA",New Orleans (LA) (Bourbon St. 2)
+https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w508099631.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/N3PnBh9.png" group-title="USA",New York City (NY) (5th Avenue)
+https://videos3.earthcam.com/fecnetwork/15294.flv/chunklist_w411913482.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4GfYfOM.png" group-title="USA",New York City (NY) (South View)
+https://videos3.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7wSWmF5.png" group-title="USA",New York City (NY) (Times Square 1)
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BL6IVZ7.png" group-title="USA",New York City (NY) (Times Square 2)
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0hRe5Cr.png" group-title="USA",New York City (NY) (World Trade Center)
+https://videos3.earthcam.com/fecnetwork/10874.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/826ar4W.png" group-title="USA",Panama City (FL) (Schooner's Bar Cam)
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RarDcJA.png" group-title="USA",Panama City (FL) (Schooner's Sun Cam)
+http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vrMTB3F.png" group-title="USA",Richmond (VA) (Science Museum of Virginia)
+http://184.80.5.148:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VBSM7hH.png" group-title="USA",San Diego (CA) (Panda 1)
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0EuvclS.png" group-title="USA",San Diego (CA) (Panda 2)
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IcLi495.png" group-title="USA",San Diego (CA) (Polar Bear)
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rIyDOH3.png" group-title="USA",Sandusky (OH) (Cedar Point Park 1)
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WDZPexg.png" group-title="USA",Sandusky (OH) (Cedar Point Park 2)
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oHloGmq.png" group-title="USA",Santa Monica (CA) (Santa Monica Pier)
+https://videos3.earthcam.com/fecnetwork/6253.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EyedfXh.png" group-title="USA",St. Louis (MO) (Gateway Arch)
+https://videos3.earthcam.com/fecnetwork/meprd_garch.flv/chunklist_w298363827.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RTT8pGh.png" group-title="USA",Wyoming (Devils Tower)
+http://72.36.32.28:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sPA8ab.png" group-title="CANADA",The Blue Mountains (Craigleith Ski Club)
+http://72.143.50.74:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TdoLhpS.png" group-title="CANADA",Toronto (Niagara Falls 1)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/weTAp3p.png" group-title="CANADA",Toronto (Niagara Falls 2)
+https://videos3.earthcam.com/fecnetwork/4559.flv/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/weTAp3p.png" group-title="CANADA",Toronto (Niagara Falls 3)
+https://videos3.earthcam.com/fecnetwork/15527.flv/chunklist_w4255594.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/toEf5F9.png" group-title="CANADA",Toronto (Skyline)
+https://videos3.earthcam.com/fecnetwork/9299.flv/chunklist_w288432429.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0jitNAo.png" group-title="UK",London (Abbey Road)
+https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/skxsriT.png" group-title="IRELAND",Kinsale
+http://62.77.164.197:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4nfmGm.png" group-title="ANGUILLA",Meads Bay Pond (Beach Cam)
+https://videos3.earthcam.com/fecnetwork/14179.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TkRgd7B.png" group-title="GERMANY",Bremen (Gemeinde Rednitzhembach Rathausplatz)
+http://217.91.208.210:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZGPkyH0.png" group-title="GERMANY",Velbert (Nordrhein-Westfalen)
+http://217.5.197.4:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LvTVp3u.png" group-title="AUSTRIA",Oberosterreich (Braunau am Inn)
+http://92.39.160.45:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J4AneE1.png" group-title="AUSTRIA",Rauris (Rauriser Marktplatz)
+http://195.70.107.151:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",Jerzens (Tirol Airport)
+http://83.218.163.132:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DeXnIyV.png" group-title="SWITZERLAND",Basel-Stadt (Neubau Biozentrum)
+http://131.152.126.150:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0sbrJ6v.png" group-title="NORWAY",Finse (Hotel Finse 1222)
+https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?custom-mdt=on
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xvaoDPV.png" group-title="FINLAND",Pieksamaki (Pieksanjarvi Lake)
+http://79.141.146.78:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CtxpkBa.png" group-title="SWEDEN",Halmstad
+http://192.165.96.36:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qWjbILH.png" group-title="SWEDEN",Sjoberg (Marsfjall Mountain Lodge)
+http://81.8.239.195:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tdISrYa.png" group-title="NETHERLANDS",Leeuwarden (Elfstedenhal)
+https://58fe270971ed0.streamlock.net/live/elfstedenhal.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7bl5hif.png" group-title="NETHERLANDS",Maastricht (Amrâth Hotel DuCasque)
+https://58fe270971ed0.streamlock.net/live/maastricht.stream/chunklist_w436280477.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZYHzkIu.png" group-title="FRANCE",Biarritz (Esplanade du Rocher de la Vierge)
+https://5c8a7c996322e.streamlock.net/live/AquariumBiarritz-RocherdelaVierge-1080p/chunklist_w1767223388.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/69poo0H.png" group-title="FRANCE",Paris (Eiffel Tower)
+https://videos3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8e4Tatu.png" group-title="ITALY",Florence (Ponte Vecchio)
+https://cdn-001.whatsupcams.com/hls/it_firenze1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xh3My2J.png" group-title="ITALY",Rome (Piazza Navona)
+https://cdn-002.whatsupcams.com/hls/it_roma02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZCr8ta.png" group-title="ITALY",Rome (St. Peter's Basilica)
+http://93.146.249.144:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ITQqQ2F.png" group-title="ITALY",Venice (Ponte di Rialto)
+https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Mhlij0k.png" group-title="SPAIN",Barbate (Playa del Carmen)
+https://cdn-002.whatsupcams.com/hls/es_barbate01.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/w7tHpAP.png" group-title="SPAIN",Las Palmas (Playa Las Canteras) LOOP?
+https://cdn-004.whatsupcams.com/hls/es_laspalmas4.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RlwYv4Q.png" group-title="SPAIN",Lloret de Mar (Beach Cam)
+https://cdn-003.whatsupcams.com/hls/es_lmar1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xjVP6qb.png" group-title="SPAIN",Potes (Picos de Europa)
+https://5811bd721519c.streamlock.net:1936/live/livecam023.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AGjGc3C.png" group-title="SPAIN",Roses (La Perola Beach)
+https://cdn-003.whatsupcams.com/hls/es_roses01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i80h2XD.png" group-title="SPAIN",Roses (Port)
+https://cdn-002.whatsupcams.com/hls/es_roses02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TAHGsB.png" group-title="SPAIN",Salou (Espigó del Moll)
+http://195.76.183.92:8888/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ip7hQtu.png" group-title="SPAIN",Salou (Passeig Jaume I)
+http://webcam.salou.cat:8889/axis-cgi/mjpg/video.cgi?resolution=380x290&dummy=1452859544402
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzeLlzw.png" group-title="PORTUGAL",Sagres (Beach Cam)
+https://camsecure.co/HLS/sagressholidays.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EOgaThb.png" group-title="BRAZIL",Foz do Iguaçu (Friendship Bridge)
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0GUkeuj.png" group-title="BRAZIL",Rio de Janeiro (Copacabana Beach)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qed9h7t.png" group-title="BRAZIL",Ponta Negra (Praia Azul Mar Hotel)
+https://cdn-001.whatsupcams.com/hls/br_natal1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TjBCZV5.png" group-title="MEXICO",Puerto Vallarta (Zona Hotelera)
+https://58e33ed8288e6.streamlock.net/Bahia/Bahia/chunklist_w1387939310.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/skYznzo.png" group-title="CZECHIA",Baska (Moravskoslezsky Kraj)
+http://217.197.149.7:88/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EMfnDDF.png" group-title="POLAND",Łeba (West Beach)
+https://streaming.airmax.pl/atlantiskspj21/tracks-v1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zybZ8k7.png" group-title="HUNGARY",Budapest (Danube River)
+https://videos3.earthcam.com/fecnetwork/15041.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0a8L8Mx.png" group-title="RUSSIA",Ryazan Oblast (Vyshensky Monastery)
+http://212.26.225.115:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gJwYqng.png" group-title="GREECE",Mykonos (Old Port)
+https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EvqgUlt.png" group-title="ISRAEL",Jerusalem (Western Wall)
+https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1952442559.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kNXLuh.png" group-title="PALESTINE",Nablus (City Center)
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Nfvvsv9.png" group-title="EGYPT",Giza (The Pyramids)
+https://cdn-002.whatsupcams.com/hls/eg_cairo01.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sHp0xSm.png" group-title="CHINA",Chengdu (Panda Reserve)
+http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",Shanghai (Skyline)
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8

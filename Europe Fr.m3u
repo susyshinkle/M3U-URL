@@ -439,7 +439,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x38yjeb
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="France",TF1
-http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/13.m3u8
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TF1 Series" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="France;Movies",TF1 Series/films

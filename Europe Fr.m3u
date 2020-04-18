@@ -158,8 +158,12 @@ https://s1.tntendirect.com/france2/live/playlist.m3u8
 https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3d64afa26654e4935d006594f848b834856b57c76320bd888bc5fd4a91413c8d84b863090e59d0ef1eedb762677bc40d6af150606517b6321d516d377ceed091d43a44d34ecadfede61d3b824213b9e8fd5c9f029ef5cefaf5ed33531c4f8b691082448724a1b282a9ad6a18b446391fe8aaab4f6b45a5ba8f2d5788f9a40e42d73ae40c76f25399db9ec66c18450095
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="France",France 3
-https://edge-1192-ch-gv.filmon.com/live/3893.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="France",France 3 Alpe
+https://edge-1192-ch-gv.filmon.com/live/3893.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe11aea20af9cfd5fd086695a38de948cea77db363f70e5283d574ad18968ce6777d15c5268971e10a6a483b645357dbd02ff214b67da799156c4f31dac2cac177eee70b19ae66ece765edda5c6b8c7561efd1798764ea6460ed46b4ddb8f0ffdb6dc8733aa2ab08a708a79865e86deafd252152580c65b4533835609e2dc895fca9ea84dfdba9967bf1ca02a48f467104
+
+# update link : #
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="France",France 3 rhone-alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7b544e84d9205f80e123a78ac5c76b465cdc5b7db93e97712d1d2ed736545fbd515c78065e0c21efefbf25cbca5dcd21de462c9891969cff04876c0b4fb05e81641640e5c3b372703418625e7c9f939b133491022ef5159bdfc1b267b5395d21808ee8141dc884beb631204da8a32cb47498669a850eae733bd3fdd417c5d18269e9689349f1a7de34f3b3336b561b49
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="F3 Bretagne" tvg-logo="https://france3-regions.francetvinfo.fr/bretagne/sites/regions_france3/themes/fr3r_responsive/images/icons/apple-touch-icon-144x144.png" group-title="France",F3 Bretagne (GEO)

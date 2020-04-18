@@ -301,9 +301,9 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="KTO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/db/KTO_logo_2008.png" group-title="France",KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
-# update link : https://www.melody.tv/en-direct #
+# update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY
-https://str81.creacast.com/telemelody/77c4d498ee1fcdae010e76be3656739e/chunklist_w39577615_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/80fdd7442b8475bde27b3cb4cf4a5360/chunklist_w1167018341_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI

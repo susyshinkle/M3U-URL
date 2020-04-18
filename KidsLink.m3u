@@ -98,6 +98,9 @@ plugin://plugin.video.youtube/play/?video_id=Q-KGagg99UQ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgfDNpK/Peppa-Pig.png" group-title="Youtube",Peppa Pig (YT)
 plugin://plugin.video.youtube/play/?video_id=mEpToKnURAM
 
+#EXTINF:-1 tvg-logo="https://tvradio-pitchoun.fr/assets/img/logo.png" tvg-name="DailyMotion"  group-title="France",Pitchoun TV (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5zaibr
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cn446MH/POCOYO.png" group-title="Youtube",POCOYO (YT)
 plugin://plugin.video.youtube/play/?video_id=zv74628FTAI
 

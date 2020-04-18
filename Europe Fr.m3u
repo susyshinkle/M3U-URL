@@ -290,7 +290,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
 # update link :  #
-#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1
+#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (N.D)
 https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1587134502~exp=1587134902~acl=/i/dclive_1@103544*~hmac=f8c64708882291deb0b61d2346701652233a86404a0e25351e1ab8acad0ff8e7
 
 # update link : #
@@ -462,12 +462,12 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="TFX" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="France",TFX (GEO) N.D
-https://s1.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="TFX" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="France",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="France",TMC
-http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/10.m3u8
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TV3V" tvg-logo="https://i.ibb.co/ZY9Q2Qf/logo-tv3v.png" group-title="France",TV3V

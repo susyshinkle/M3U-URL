@@ -3,7 +3,7 @@
 #### Made By Sphinxr00t QC ####
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" group-title="Francais", ★★★★★[COLOR red]Films d'Animation Sur Youtube[/COLOR]★★★★★
-plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
+plugin://plugin.video.youtube/play/?video_id=UQRDv3HtmUA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXyQzHG/26c89d70.png" group-title="Francais",film 1
 plugin://plugin.video.youtube/play/?video_id=mDkNzYV2L-g
@@ -138,7 +138,7 @@ plugin://plugin.video.youtube/play/?video_id=dlgaw_z72hY
 ######################Anglais##################
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png" group-title="Live TV",★★★★★[COLOR blue]24/7 Cartoon Anglais tout AGE[/COLOR]★★★★★
-plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
+plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1z3Nd7r/3-ABN-KIDS-LOGO.png" group-title="",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8

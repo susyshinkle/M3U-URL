@@ -8,7 +8,7 @@ plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
 #####France#####
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 # update link : https://www.01net.com/mediaplayer/live-video/ https://www.dailymotion.com/video/x7pctg0 #
 #EXTINF:-1 tvg-id="France" tvg-name="1net" tvg-logo="https://img.bfmtv.com/c/709/360/c1d/6563bed295ce02d829725b9899b31.png" group-title="France",1net (DM)
@@ -577,7 +577,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x63085w
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/belge.png?raw=true",★★★★★★★★★★[COLOR orange]Belgique[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",Antenne Centre
@@ -653,7 +653,7 @@ https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
 #####Suisse#####
 
 #EXTINF:-1 tvg-id="Suisse" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/Suisse.png?raw=true",★★★★★★★★★★[COLOR red]Suisse[/COLOR]★★★★★★★★★★
-plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+plugin://plugin.video.youtube/play/?video_id=HS7ulzLL034
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV

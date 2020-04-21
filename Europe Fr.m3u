@@ -667,6 +667,9 @@ https://edge8.vedge.infomaniak.com/livecast/ik:livehd/chunklist_w1977644832.m3u8
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Canal Alpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",Canal Alpha
 https://edge6.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1815884040_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="Suisse" tvg-name="CanalAlpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",CanalAlpha Jura bernois
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music update everyday
 https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1016889398_b982118.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTRwcWZwYmRjMjM1bXE5c3NvcXIwZ24zcWwzJnVJRD0wJnVOYW1lPUd1ZXN0YTRjNWY%3D&id=nsptMY8J1p_OlL-0CnZV

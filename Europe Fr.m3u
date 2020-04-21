@@ -90,6 +90,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
 #EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 
+# update link : #
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654&checkedby:www.iptvcat.com
 
@@ -265,6 +266,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_p
 #EXTINF:-1 tvg-id="France" tvg-name="FunRadio" tvg-logo="https://i.ibb.co/7ks00vz/apple-touch-icon.png" group-title="France",FunRadio (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xxtuy6
 
+# update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="GAME ONE" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/GameOne2006-800x450-c-default.png" group-title="France",GAME ONE
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
 
@@ -279,10 +281,6 @@ http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Gong Max" tvg-logo="https://i.ibb.co/r4RmtCK/gongmax.png" group-title="France",Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="Gong Max" tvg-logo="https://i.ibb.co/r4RmtCK/gongmax.png" group-title="France",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli (GEO) N.D
@@ -310,7 +308,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY update everyday
-https://str81.creacast.com/telemelody/9b8423ba7b8b6d2954742c99c1a40c07/chunklist_w454611795_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/f6acf10b4d95203bd52335e77ce3bca1/chunklist_w1905413428_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI
@@ -628,8 +626,7 @@ https://media01.webtvlive.eu/rtc/_definst_/smil:live.smil/chunklist_w1392209580_
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com
-" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",Tv Com
+#EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",Tv Com
 https://5a0b00d270652.streamlock.net/live/tvcom-live/chunklist_w396605632.m3u8
 
 # update link : #
@@ -672,7 +669,7 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music update everyday
-https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1016889398_b982118.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTRwcWZwYmRjMjM1bXE5c3NvcXIwZ24zcWwzJnVJRD0wJnVOYW1lPUd1ZXN0YTRjNWY%3D&id=nsptMY8J1p_OlL-0CnZV
+https://edge1.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1012228940_b820922.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTkza2QybjF2c2N0aHZ2MHNqNmtuZWtkOW5vJnVJRD0wJnVOYW1lPUd1ZXN0MjlkZWE%3D&id=-hdGQ5NHNxD-eWh-CpHX
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur
@@ -715,3 +712,4 @@ https://edge7.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w191085829.m3u8
 https://edge1.vedge.infomaniak.com/livecast/ik:rougetv/chunklist_w94148732.m3u8
 
 
+###end##

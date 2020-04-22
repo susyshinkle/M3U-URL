@@ -302,7 +302,7 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (N.D)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1587134502~exp=1587134902~acl=/i/dclive_1@103544*~hmac=f8c64708882291deb0b61d2346701652233a86404a0e25351e1ab8acad0ff8e7
+https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1587614388~acl=%2fi%2fdclive_1%40103544*~data=hdntl~hmac=2b4cc0e9125e7cdb287ba09c633a538d08607396c66be69bce0e0de8bda8d347
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV

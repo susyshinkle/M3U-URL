@@ -90,7 +90,7 @@ http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
+#EXTINF:-1 tvg-id="France" tvg-name="CGTN" tvg-logo="https://uifr.cgtn.com/w/images/icon/logo@3x.png" group-title="France",CGTN (YT)
 plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 
 # update link : #

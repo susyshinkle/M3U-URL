@@ -364,7 +364,7 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/4KybCjd/Mosaik-Cristal.png" group-title="France",Mosaik Cristal (YT)
+#EXTINF:-1 tvg-id="France" tvg-name="Mosaik Cristal" tvg-logo="https://i.ibb.co/4KybCjd/Mosaik-Cristal.png" group-title="France",Mosaik Cristal (YT)
 plugin://plugin.video.youtube/play/?video_id=dSls9-EKGBI
 
 # update link : https://www.dailymotion.com/video/x5ddv09 #
@@ -379,7 +379,7 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12 (geo) N.D
 https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Français",Piwi
+#EXTINF:-1 tvg-id="France" tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Français",Piwi
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 
 # update link : https://www.dailymotion.com/video/xkxbzc #
@@ -402,9 +402,6 @@ https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="Undefined",RMC SPORT 5 FHD
 http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
 
-#EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="RMC Story" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Story (geo) N.D
 https://s1.tntendirect.com/numero23/live/playlist.m3u8
@@ -424,6 +421,9 @@ plugin://plugin.video.youtube/play/?video_id=S-dMwiuvqLM
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
+
+#EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="tebesud" tvg-logo="https://tebesud.awedia.com/images/header_logo.png" group-title="France",Tebesud

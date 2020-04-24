@@ -205,11 +205,11 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 
 # update link : #
@@ -253,19 +253,19 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b47000
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
  
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 
 # update link : https://www.dailymotion.com/video/xxtuy6 #
@@ -314,7 +314,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY update everyday
-https://str81.creacast.com/telemelody/22046fbc379aa55a0ecdacb199b4711d/chunklist_w1311489390_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/ea41007d1dd718fe955cac28b7c96b50/chunklist_w1101156102_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI

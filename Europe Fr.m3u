@@ -314,7 +314,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY update everyday
-https://str81.creacast.com/telemelody/ea41007d1dd718fe955cac28b7c96b50/chunklist_w1101156102_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/19bc24cb7b0b599ca3080d11add4b3c4/chunklist_w677210044_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI
@@ -379,7 +379,7 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12 (geo) N.D
 https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Français",Piwi
+#EXTINF:-1 tvg-id="France" tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="France",Piwi
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 
 # update link : https://www.dailymotion.com/video/xkxbzc #
@@ -395,11 +395,11 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="Undefined",RMC
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="Undefined",RMC SPORT 5 FHD
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 FHD
 http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
 
 # update link : #
@@ -690,7 +690,7 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music update everyday
-https://edge1.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1012228940_b820922.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTkza2QybjF2c2N0aHZ2MHNqNmtuZWtkOW5vJnVJRD0wJnVOYW1lPUd1ZXN0MjlkZWE%3D&id=-hdGQ5NHNxD-eWh-CpHX
+https://edge1.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w373925227_b1073008.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTI3cHA3cWhtOTNzaG1ycXNuNTdkNjVhMWR0JnVJRD0wJnVOYW1lPUd1ZXN0NDBmMGE%3D&id=hI-HUkddh7rBwETUCuz0
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur

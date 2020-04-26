@@ -698,7 +698,7 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_1200_av-b.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="latele" tvg-logo="https://latele.ch/img/favicon/apple-touch-icon.png" group-title="Suisse",latele
-https://latele2.vedge.infomaniak.com/livecast/latele2/chunklist_w1925632486.m3u8
+https://edge8.vedge.infomaniak.com/livecast/latele2/chunklist_w1798460365.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Leman Bleu" tvg-logo="http://www.lemanbleu.ch/Htdocs/Images/ico/apple-touch-icon-144x144-precomposed.png" group-title="Suisse",Leman Bleu

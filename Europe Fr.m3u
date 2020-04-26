@@ -638,9 +638,9 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-id="Belgique" tvg-name="Notélé" tvg-logo="https://www.notele.be/webfiles/layout/logo.png" group-title="Belgique",Notélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
 
-# update link : #
+# update link : https://www.rtc.be/live #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTC Liege" tvg-logo="https://i.ibb.co/p3zw6tG/RTC-Liege.png" group-title="Belgique",RTC Liege
-https://media01.webtvlive.eu/rtc/_definst_/smil:live.smil/chunklist_w1392209580_b8256000_tkdG9rZW5lbmR0aW1lPTE1ODY4MDk4MjYmdG9rZW5zdGFydHRpbWU9MTU4Njc5OTAyNiZ0b2tlbmhhc2g9eG5mcHRvMjVINlV6Tm85QmxqZ3dBcnZsX2p3LUpMX3FhakhBb2xKYnRBdz0=.m3u8
+https://media01.webtvlive.eu/rtc-edge/_definst_/smil:live.smil/chunklist_w1270237425_b8256000_DVR_tkdG9rZW5lbmR0aW1lPTE1ODc5NTQxMzAmdG9rZW5zdGFydHRpbWU9MTU4Nzk0MzMzMCZ0b2tlbmhhc2g9UkM2bXlYM1lRV1M4cUN5YzZ4YThVekFxZXNSR2hrbkl0ZjZKYU9lLUZwUT0=.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi

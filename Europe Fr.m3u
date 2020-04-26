@@ -675,7 +675,7 @@ plugin://plugin.video.youtube/play/?video_id=HS7ulzLL034
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Beatz TV" tvg-logo="https://ch.az-cdn.ch/static/1.131.0/radiopilatus/device-icons/512x512.png" group-title="Suisse",Beatz TV
-https://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/chunklist_w692129818.m3u8
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Canal 9" tvg-logo="https://canal9.ch/wp-content/uploads/2015/01/logo-canal9-white.png" group-title="Suisse",Canal 9

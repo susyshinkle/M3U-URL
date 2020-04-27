@@ -78,7 +78,7 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w16838
 #EXTINF:-1 tvg-id="France" tvg-name="BipTV" tvg-logo="https://i.imgur.com/YFEqBS7.png"group-title="France",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Boing.es.png" group-title="Français",BOING Français
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Français",BOING Français
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 
 # update link : #
@@ -383,7 +383,7 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928
 #EXTINF:-1 tvg-id="France" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12 (geo) N.D
 https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France" tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="France",Piwi
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="France",Piwi
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 
 # update link : https://www.dailymotion.com/video/xkxbzc #
@@ -449,7 +449,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x128fjo
 #EXTINF:-1 tvg-id="France" tvg-name="Télénantes" tvg-logo="https://www.telenantes.com/sites/all/themes/bootstrap/logo.png" group-title="France",Télénantes (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5so98l
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Français",Téva
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva
 http://51.15.3.161:8080/Teva/index.m3u8?token=test
 
 # update link : #

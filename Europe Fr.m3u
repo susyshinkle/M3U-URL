@@ -166,11 +166,11 @@ http://51.15.3.161:8080/france2/index.m3u8?token=test
 https://edge-823-ch-gv.filmon.com/live/1717.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3d64afa26654e4935d006594f848b834856b57c76320bd888bc5fd4a91413c8d84b863090e59d0ef1eedb762677bc40d6af150606517b6321d516d377ceed091d43a44d34ecadfede61d3b824213b9e8fd5c9f029ef5cefaf5ed33531c4f8b691082448724a1b282a9ad6a18b446391fe8aaab4f6b45a5ba8f2d5788f9a40e42d73ae40c76f25399db9ec66c18450095
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="France",France 3 Alpe
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="France",France 3 Alpe
 https://edge-1192-ch-gv.filmon.com/live/3893.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe11aea20af9cfd5fd086695a38de948cea77db363f70e5283d574ad18968ce6777d15c5268971e10a6a483b645357dbd02ff214b67da799156c4f31dac2cac177eee70b19ae66ece765edda5c6b8c7561efd1798764ea6460ed46b4ddb8f0ffdb6dc8733aa2ab08a708a79865e86deafd252152580c65b4533835609e2dc895fca9ea84dfdba9967bf1ca02a48f467104
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://static.iptv-epg.com/fr/France3.fr.png" group-title="France",France 3 rhone-alpes
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="France",France 3 rhone-alpes
 https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7b544e84d9205f80e123a78ac5c76b465cdc5b7db93e97712d1d2ed736545fbd515c78065e0c21efefbf25cbca5dcd21de462c9891969cff04876c0b4fb05e81641640e5c3b372703418625e7c9f939b133491022ef5159bdfc1b267b5395d21808ee8141dc884beb631204da8a32cb47498669a850eae733bd3fdd417c5d18269e9689349f1a7de34f3b3336b561b49
 
 # update link : #
@@ -181,7 +181,7 @@ https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" group-title="Français",France 3 (opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-2)
 http://51.15.3.161:8080/france3/index.m3u8?token=test
 
 # update link : #
@@ -209,67 +209,67 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midmite_secr_108_hls.smil/chunklist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="France",Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="France",Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="France",Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="France",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
  
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="France",Fashion TV 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
  
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
+#EXTINF:-1 tvg-id="France" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/RYLQn2Y/E38ZhCz.png" group-title="France",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 
 # update link : https://www.dailymotion.com/video/xxtuy6 #
@@ -318,7 +318,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY update everyday
-https://str81.creacast.com/telemelody/19bc24cb7b0b599ca3080d11add4b3c4/chunklist_w677210044_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/d8b2c46921b7f140b703898cc82dcbc7/chunklist_w1641224376_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI
@@ -698,7 +698,7 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music update everyday
-https://edge1.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w373925227_b1073008.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTI3cHA3cWhtOTNzaG1ycXNuNTdkNjVhMWR0JnVJRD0wJnVOYW1lPUd1ZXN0NDBmMGE%3D&id=hI-HUkddh7rBwETUCuz0
+https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1877832241_b1041186.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPXJtcDBmcjhiYnViNnFsampvOTV1dXE5NzRuJnVJRD0wJnVOYW1lPUd1ZXN0YjE3MjM%3D&id=kv95G6TFS9ONxc9mCwNb
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur

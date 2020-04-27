@@ -34,6 +34,10 @@ https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="ArtPla TV" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/138_medium.png" group-title="France",ArtPla TV
 http://str81.creacast.com/iltv/high/chunklist_w1782720917.m3u8
 
+# update link : https://mon.astrocenter.fr/tv/en-direct #
+#EXTINF:-1 tvg-id="France" tvg-name="AstrocenterTV" tvg-logo="https://mon.astrocenter.fr/static/img/third_parties/www.astrocenter.fr/astrocenter-logo.png" group-title="France",AstrocenterTV (YT)
+plugin://plugin.video.youtube/play/?video_id=amRO2w9dO4M
+
 # update link : https://www.azur-tv.fr/live/ https://www.dailymotion.com/video/x630wrb #
 #EXTINF:-1 tvg-id="France" tvg-name="Azur TV" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2017/09/cropped-Logo_azur_tv_ROND_100x100-1-1.png" group-title="France",Azur TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x630wrb
@@ -421,6 +425,10 @@ plugin://plugin.video.youtube/play/?video_id=S-dMwiuvqLM
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Sport en France" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="France",Sport en France (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
+
+# update link : https://www.studioqualita.com/direct #
+#EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT)
+plugin://plugin.video.youtube/play/?video_id=3jqBI9PeI-I
 
 #EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8

@@ -318,7 +318,7 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
 #EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY update everyday
-https://str81.creacast.com/telemelody/d8b2c46921b7f140b703898cc82dcbc7/chunklist_w1641224376_b1028000_t64SGlnaA==.m3u8
+https://str81.creacast.com/telemelody/dc86c97946093a98af75976ea1cda665/chunklist_w1246352227_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
 #EXTINF:-1 tvg-id="France" tvg-name="LCI" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="France",LCI
@@ -710,7 +710,7 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music update everyday
-https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1877832241_b1041186.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPXJtcDBmcjhiYnViNnFsampvOTV1dXE5NzRuJnVJRD0wJnVOYW1lPUd1ZXN0YjE3MjM%3D&id=kv95G6TFS9ONxc9mCwNb
+https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1901883967_b1071086.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPXUwaGE3b2cydG9kY2ZlMzd0NjI1dGRsbGcwJnVJRD0wJnVOYW1lPUd1ZXN0OGUzZTQ%3D&id=Cfk0WlplD8ANevYJAEC5
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur

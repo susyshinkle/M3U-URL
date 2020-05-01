@@ -77,18 +77,22 @@ https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
 
 #############
 
-
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Youtube.png?raw=true",★★★★★[COLOR green]Youtube Live[/COLOR]★★★★★
 plugin://plugin.video.youtube/play/?video_id=FvXMrabDU6g
 
 # update link https://www.youtube.com/user/bellahdjel #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/BelmediaTV.png?raw=true" group-title="Canadian TV",Belmediatv (YT)
-plugin://plugin.video.youtube/play/?video_id=j7cRczNXKuQ
+plugin://plugin.video.youtube/play/?video_id=62dF5cOHRL0
 
+# update link https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ#
+#EXTINF:-1 tvg-logo="https://tq5tv.com/wp-content/uploads/2018/01/received_579425789056802-1-150x150.png" group-title="Canadian TV",TQ5(YT)
+plugin://plugin.video.youtube/play/?video_id=tZMF2XCZwek
+
+# update link https://www.youtube.com/user/ctmq #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Telemag.png?raw=true" group-title="Canadian TV",Télé-Mag Québec (YT)
 plugin://plugin.video.youtube/play/?video_id=Ctm-7JcJ5HM
 
-# update kink https://www.youtube.com/user/CablevisionTVC9
+# update link https://www.youtube.com/user/CablevisionTVC9 #
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/TVC9.png?raw=true" group-title="Canadian TV",TVC9 (YT)
 plugin://plugin.video.youtube/play/?video_id=g-0o--6bbpM
 

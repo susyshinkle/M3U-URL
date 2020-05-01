@@ -328,9 +328,13 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="LCP TV" tvg-logo="http://www.lcp.fr/sites/default/themes/lcp/favicons/apple-touch-icon-152x152.png" group-title="France",LCP TV (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xgepjr
 
-# update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21
+# update link : https://www.dailymotion.com/lachainelequipe #
+#EXTINF:-1 tvg-id="France" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe 21 (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x2lefik
+
+# update link : https://www.dailymotion.com/lachainelequipe #
+#EXTINF:-1 tvg-id="France" tvg-name="L'Equipe Live 2 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="France",L'Equipe Live 2 (DM)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x43lrzl
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="France",Lèeekô TV

@@ -390,6 +390,10 @@ http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="France" tvg-name="PUBLIC SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",PUBLIC SENAT (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc
 
+# update link https://www.youtube.com/channel/UCxSUslP_JMH3Bb50oXd1Nnw #
+#EXTINF:-1 tvg-id="France" tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision(YT)
+plugin://plugin.video.youtube/play/?video_id=MN489NG5fNk
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="Radio Contact Feel Good" tvg-logo="https://i.ibb.co/4VJ8bjv/SHAR-792-488-2.png" group-title="France",Radio Contact Feel Good
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on

@@ -423,6 +423,10 @@ https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_KB@300868/master.m3u8?_
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 # update link : #
+#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC (YT) (opt-2)
+plugin://plugin.video.youtube/play/?video_id=nfRJWSt8HG4
+
+# update link : #
 #EXTINF:-1  tvg-id="France" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 FHD
 http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
 

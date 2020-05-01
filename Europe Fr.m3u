@@ -415,8 +415,8 @@ https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="RMC Decouverte FR" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Decouverte (GEO) N.D
-https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="RMC Decouverte FR" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Decouverte
+https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_KB@300868/master.m3u8?__nn__=5375862360001&hdnea=st=1588347000~exp=1588350600~acl=/i/*~hmac=0a6f1b0bfe70fd95d4959ba161590f3bc22d1795c967f118a1cafb7b16624967
 
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
@@ -427,8 +427,8 @@ https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="RMC Story" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Story (geo) N.D
-https://s1.tntendirect.com/numero23/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France" tvg-name="RMC Story" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Story
+https://rmcstory-lh.akamaihd.net/i/RMCSTORY_KB@694745/master.m3u8?__nn__=5773103242001&hdnea=st=1588347000~exp=1588350600~acl=/i/*~hmac=0a6f1b0bfe70fd95d4959ba161590f3bc22d1795c967f118a1cafb7b16624967
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="RT France" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="France;News",RT France

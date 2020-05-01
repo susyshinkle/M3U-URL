@@ -62,6 +62,10 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV
 https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 
+# update link : https://www.dailymotion.com/BFMTV #
+#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (DM) (opt-2)
+plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xgz4t1
+
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/ykXy6CY/grand-lille.png" group-title="France",BFM Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w689856501_b1464000.m3u8
@@ -78,7 +82,7 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w16838
 #EXTINF:-1 tvg-id="France" tvg-name="BipTV" tvg-logo="https://i.imgur.com/YFEqBS7.png"group-title="France",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Français",BOING Français
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Français",BOING Français
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 
 # update link : #
@@ -98,7 +102,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5gv6be
 plugin://plugin.video.youtube/play/?video_id=udCpddv88rw
 
 # update link : #
-#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
+#EXTINF:-1 tvg-id="France"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654&checkedby:www.iptvcat.com
 
 # update link : #
@@ -181,7 +185,7 @@ https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-2)
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-2)
 http://51.15.3.161:8080/france3/index.m3u8?token=test
 
 # update link : #
@@ -317,7 +321,7 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 # update link : https://www.melody.tv/en-direct .. need update everyday #
-#EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY update everyday
+#EXTINF:-1 tvg-id="France" tvg-name="La chaîne MELODY" tvg-logo="https://i.ibb.co/JcxQJdb/melody.png" group-title="France",La chaîne MELODY (update everyday)
 https://str81.creacast.com/telemelody/dc86c97946093a98af75976ea1cda665/chunklist_w1246352227_b1028000_t64SGlnaA==.m3u8
 
 # update link :  #
@@ -352,7 +356,7 @@ http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6 (opt-2)
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6 (opt-2)
 http://51.15.3.161:8080/M6/index.m3u8?token=test
 
 # update link : https://www.dailymotion.com/video/x6142rr #
@@ -399,11 +403,11 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc
 plugin://plugin.video.youtube/play/?video_id=MN489NG5fNk
 
 # update link https://puissancetelevision.fr/le-direct/#
-#EXTINF:-1 tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision (opt-1)
+#EXTINF:-1 tvg-id="France" tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision (opt-1)
 https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/chunklist_w1253642701_b3001080.m3u8
 
 # update link https://puissancetelevision.fr/le-direct/#
-#EXTINF:-1 tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision ( opt-2)
+#EXTINF:-1 tvg-id="France" tvg-logo="https://puissancetelevision.fr/wp-content/uploads/2019/04/Reconvert_White.png" group-title="France",Puissance Télévision ( opt-2)
 https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
 # update link : #
@@ -415,11 +419,11 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
+#EXTINF:-1 tvg-id="France"  tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 FHD
+#EXTINF:-1  tvg-id="France" tvg-logo="https://i.imgur.com/IbLIEno.png" group-title="France",RMC SPORT 5 FHD
 http://iptv7.premium-stv.com:25461/live/rmcsport5/2350888447/66.m3u8
 
 # update link : #
@@ -446,7 +450,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
 #EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT)
 plugin://plugin.video.youtube/play/?video_id=3jqBI9PeI-I
 
-#EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
+#EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 
 # update link : #
@@ -465,7 +469,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x128fjo
 #EXTINF:-1 tvg-id="France" tvg-name="Télénantes" tvg-logo="https://www.telenantes.com/sites/all/themes/bootstrap/logo.png" group-title="France",Télénantes (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5so98l
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva
+#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva
 http://51.15.3.161:8080/Teva/index.m3u8?token=test
 
 # update link : #
@@ -576,7 +580,7 @@ https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="viàGrandParis" tvg-logo="https://viagrandparis.tv/fileadmin/via_main/img/viagrandparis-header.png" group-title="France",viaGrandParis (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x6gk2x7
 
-#EXTINF:-1 tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",via TVM Est parisien
+#EXTINF:-1 tvg-id="France" tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Français",via TVM Est parisien
 https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
 
 # update link : #

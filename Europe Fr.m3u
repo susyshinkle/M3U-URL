@@ -394,6 +394,10 @@ https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="France",Piwi
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 
+# update link : https://www.youtube.com/user/PearlDiffusion #
+#EXTINF:-1 tvg-id="France" tvg-name="PearlTV" tvg-logo="https://content.pearl.fr/bundles/pearlfront/images/general/logo_pearl_bleu.png"group-title="France",PearlTV (YT)
+plugin://plugin.video.youtube/play/?video_id=IMOf5KwhRPE
+
 # update link : https://www.dailymotion.com/video/xkxbzc #
 #EXTINF:-1 tvg-id="France" tvg-name="PUBLIC SENAT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/1200px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="France",PUBLIC SENAT (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xkxbzc

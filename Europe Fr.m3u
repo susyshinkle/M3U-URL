@@ -66,6 +66,10 @@ https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/87
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (DM) (opt-2)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xgz4t1
 
+# update link :https://www.youtube.com/channel/UCXwDLMDV86ldKoFVc_g8P0g #
+#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV (YT) (opt-3)
+plugin://plugin.video.youtube/play/?video_id=fjaT5H2abcU
+
 # update link : #
 #EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/ykXy6CY/grand-lille.png" group-title="France",BFM Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w689856501_b1464000.m3u8

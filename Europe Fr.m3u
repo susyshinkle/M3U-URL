@@ -308,9 +308,9 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France" tvg-name="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="France;News",i24 FR (GEO)
 https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
-# update link :  #
-#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (N.D)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1587614388~acl=%2fi%2fdclive_1%40103544*~data=hdntl~hmac=2b4cc0e9125e7cdb287ba09c633a538d08607396c66be69bce0e0de8bda8d347
+# update link : https://www.idf1.fr/live #
+#EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (update daily)
+https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1588389498~exp=1588389898~acl=/i/dclive_1@103544*~hmac=2a40158476cd7ad6f30702c5c603ddc0d5afec465688565bc61d126874784b9d
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV

@@ -456,7 +456,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
 
 # update link : https://www.studioqualita.com/direct #
 #EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT)
-plugin://plugin.video.youtube/play/?video_id=3jqBI9PeI-I
+plugin://plugin.video.youtube/play/?video_id=rtUqWeZH3LA
 
 #EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8

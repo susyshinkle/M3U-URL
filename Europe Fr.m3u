@@ -605,7 +605,7 @@ https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w131827170
 
 # update link : https://viaoccitanie.tv/direct-tv/ #
 #EXTINF:-1 tvg-id="France" tvg-name="viaoccitanie" tvg-logo="https://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" group-title="France",viaoccitanie
-https://streamer03.myvideoplace.tv/edge/_definst_/smil:smil/archive_01/videos/09-04-20/84e6e30379265609c4eb170ef7dd44c4_1586431467.smil/chunklist_w1637916039_b3000000.m3u8
+https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="viaSarthe" tvg-logo="https://vialmtv.tv/fileadmin/via_main/img/logos/viaLMtvSarthe-header.png" group-title="France",viaSarthe (DM)

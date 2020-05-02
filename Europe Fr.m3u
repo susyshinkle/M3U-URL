@@ -418,6 +418,10 @@ https://edge10.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 #EXTINF:-1 tvg-id="France" tvg-name="Radio Contact Feel Good" tvg-logo="https://i.ibb.co/4VJ8bjv/SHAR-792-488-2.png" group-title="France",Radio Contact Feel Good
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 
+# update link :  #
+#EXTINF:-1 tvg-id="France" tvg-name="radio inter s'cool" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kgQfPT5D6J.png"group-title="France",radio inter s'cool (YT)
+plugin://plugin.video.youtube/play/?video_id=Jb2ae6EQdPg
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="RMC Decouverte FR" tvg-logo="https://i.ibb.co/MV7ZZTS/RMCTV.png" group-title="France",RMC Decouverte
 https://nextmediahdslive-lh.akamaihd.net/i/RMCDECOUVERTE_KB@300868/master.m3u8?__nn__=5375862360001&hdnea=st=1588347000~exp=1588350600~acl=/i/*~hmac=0a6f1b0bfe70fd95d4959ba161590f3bc22d1795c967f118a1cafb7b16624967

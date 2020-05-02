@@ -572,6 +572,10 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 #EXTINF:-1 tvg-id="France" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.ibb.co/SJg4GwX/TV8-Montblanc.png" group-title="France",TV8 Montblanc (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x3wqv8b
 
+# update link :  #
+#EXTINF:-1 tvg-id="France" tvg-name="TV8 Moselle-Est" tvg-logo="https://www.tv8.fr/images/logo.png"group-title="France",TV8 Moselle-Est (YT)
+plugin://plugin.video.youtube/play/?video_id=IRHQdiQU5SU
+
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="TVR" tvg-logo="https://i.ibb.co/tMTstXT/TVR-Rennes35-Bretagne.png" group-title="France",TVR Rennes35 Bretagne
 https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8

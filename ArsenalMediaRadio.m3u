@@ -1,0 +1,65 @@
+﻿#EXTM3U
+
+# Made By Sphinxroot QC ##
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/6hVCTCl.png" tvg-name="Arsenal Media" group-title="Radio QC",★★★★★★★★★★★★★★★[COLOR red]Arsenal Media Radio[/COLOR]★★★★★★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/Nuages-SDbleu.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/gJgzuBI.png" tvg-name="O" group-title="Radio QC",★★★★★★★★★★[COLOR gold]O[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/Nuages-SDbleu.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/B1QN6dW.png" tvg-name="O" group-title="Radio QC",O 95.3 Matane
+http://stream.statsradio.com:8026/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/i4WjvPp.png" tvg-name="O" group-title="Radio QC",O 97.1 La Tuque
+http://stream.statsradio.com:8018/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/tzelPZ8.png" tvg-name="O" group-title="Radio QC",O 97.3 Centre-du-Quebec et des Appalaches
+http://stream.statsradio.com:8012/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/7DU5J9n.png" tvg-name="O" group-title="Radio QC",O 98.3 Saguenay-Lac-Saint-Jean
+http://stream.statsradio.com:8064/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/OfpCTlP.png" tvg-name="O" group-title="Radio QC",O 99.1 Sept-Iles et Port-Cartier
+http://stream.statsradio.com:8020/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/lh7zAt6.png" tvg-name="O" group-title="Radio QC",O 101.5 Beauce,Rive-Sud et Québec
+http://stream.statsradio.com:8016/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/3smuDBA.png" tvg-name="O" group-title="Radio QC",O 103.5 Lanaudiere
+http://stream.statsradio.com:8024/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/u5Q0eGp.png" tvg-name="Plaisir" group-title="Radio QC",★★★★★★★★★★[COLOR gold]Plaisir[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/33024349-sd.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/bQYJaHg.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 94,1 Sept-Iles
+http://stream.statsradio.com:8034/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/U0pmW7i.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 101.9 Victoriaville
+https://stream.statsradio.com:8006/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/oUt2tlv.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 105,3 Matane
+http://stream.statsradio.com:8028/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/oHWNh8a.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 105,5 Thetford Mines
+http://stream.statsradio.com:8010/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/wD77aSH.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 106,7 Lac-Megantic
+https://stream.statsradio.com:8008/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/VwsifC3.png" tvg-name="Hit Country" group-title="Radio QC",★★★★★★★★★★[COLOR gold]Hit Country[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/1009164518-sd.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/JQN5wNK.png" tvg-name="Hit Country" group-title="Radio QC",Hit Country 95,7 Centre-du-Quebec
+http://stream.statsradio.com:8014/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/CMjpiOQ.png" tvg-name="Hit Country" group-title="Radio QC",Hit Country 105,5 Saguenay
+http://stream.statsradio.com:8088/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/KPQm8KD.png" tvg-name="Horizon" group-title="Radio QC",★★★★★★★★★★[COLOR gold]Horizon[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/1013360768-sd.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/ZlfTJ3l.png" tvg-name="Horizon" group-title="Radio QC",Horizon 95,5 temiscouata,Degelis
+http://podcast.servlinks.com/cfvd/get_shoutcast.php?1588741102243
+
+

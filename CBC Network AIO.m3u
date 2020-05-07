@@ -3,15 +3,15 @@
 ###Made By Sphinxroot QC####
 
 
-#EXTINF:-1 tvg-id="CBC" tvg-logo="https://i.imgur.com/Cxexxwa.png" tvg-name="CBC"  group-title="ENG", ★★★★★★★★★★[COLOR red]CBC TV Network[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-name="Title" tvg-id="CBC" tvg-logo="https://i.imgur.com/Cxexxwa.png" tvg-name="CBC"  group-title="ENG", ★★★★★★★★★★[COLOR red]CBC TV Network[/COLOR]★★★★★★★★★★
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
  
 ####CBC TV####
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/SGbZKbJ.png",CBC New Network
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/SGbZKbJ.png",CBC New Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/aRqMY00.png",CBC Calgary
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/aRqMY00.png",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 
 #EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/ww3rydk.png" group-title="News",CBC Charlottetown
@@ -55,58 +55,58 @@ https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 
 ####CBC news####
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/Cxexxwa.png",★★★★★★★★★★[COLOR red]Local CBC news[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/Cxexxwa.png",★★★★★★★★★★[COLOR red]Local CBC news[/COLOR]★★★★★★★★★★
 http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Here And Now 4:30pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Here And Now 4:30pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion1/master5.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Nova Scotia 5:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Nova Scotia 5:00pm EDT
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC PEI 5:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC PEI 5:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_3@138420/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC New Brunswick 5:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC New Brunswick 5:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_4@144090/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC montreal 6:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC montreal 6:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Windsor 6:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Windsor 6:00pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion6/master5.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Ottawa 6:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Ottawa 6:00pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion5/master5.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC toronto 6:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC toronto 6:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_4@144090/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Igalaaq 6:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Igalaaq 6:00pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion8/master5.m3u8
                                          
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Winipeg 7:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Winipeg 7:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Saskatchewan 8:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Saskatchewan 8:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_2@87276/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Calgary 8:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Calgary 8:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_4@144090/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Edmonton 8:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Edmonton 8:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_3@138420/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Northbeat 8:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Northbeat 8:00pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/294869/cbchlsregion8/master5.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Vancouver 9:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC Vancouver 9:00pm EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC The National 9:00pm EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",CBC The National 9:00pm EDT
 https://cbchd1dynamicads-i.akamaihd.net/hls/live/577198/the_national/master5.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",Vancouver 11:00pm at 2:00am EDT
+#EXTINF:-1 tvg-name="CBC News Canada" tvg-language="English" tvg-country="CA" tvg-id="cbc-Canada" tvg-logo="https://i.imgur.com/thAavMy.png",Vancouver 11:00pm at 2:00am EDT
 https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_2500_av-p.m3u8
 
 ####CBC MUSIC####

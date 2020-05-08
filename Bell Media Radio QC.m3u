@@ -1,0 +1,93 @@
+﻿#EXTM3U
+
+## Made By Sphinxroot QC ##
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TtezLjB.png" group-title="Bell Media"Radio QC,★★★★★★★★★★[COLOR gold]Bell Media Radio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAdL2x1.png" group-title="Bell Media"Radio QC,[COLOR gold]TSN 690 AM Montreal[/COLOR]
+https://17343.live.streamtheworld.com/CKGMAM_ADP/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amprZcm.png" group-title="Bell Media"Radio QC,[COLOR gold]CJAD 800 AM Montreal[/COLOR]
+https://20593.live.streamtheworld.com/CJADAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gz4bhTq.png" group-title="Bell Media"Radio QC,[COLOR gold]Virgin 95.9 FM Montreal[/COLOR]
+https://16903.live.streamtheworld.com/CJFMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4In0Ol.png" group-title="Bell Media"Radio QC,[COLOR gold]CHOM 97.7 FM Montreal[/COLOR]
+https://19003.live.streamtheworld.com/CHOMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfvekhM.png" group-title="Bell Media"Radio QC,[COLOR gold]Boom 104.1 FM Saint-Jean-sur-Richelieu[/COLOR] 
+https://16923.live.streamtheworld.com/CFZZFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja1yhIB.png" group-title="Bell Media"Radio QC,[COLOR gold]Boom 106.5 FM Saint-Hyacinthe[/COLOR]
+https://15903.live.streamtheworld.com/CFEIFMAAC.aac
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Njjw5Cc.png" group-title="Bell Media"Radio QC,★★★★★★★★★★[COLOR mediumblue]Energie[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxgkypF.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Drummondville 92.1[/COLOR]  
+https://20263.live.streamtheworld.com/CJDMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H12iKH7.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Gatineau-Ottawa 104.1[/COLOR]  
+https://20263.live.streamtheworld.com/CKTFFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgKt9B4.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Magog-Sherbrooke 106.1-106.9[/COLOR]  
+https://22113.live.streamtheworld.com/CIMOFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgCQgKo.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Montreal 94.3[/COLOR]  
+https://16613.live.streamtheworld.com/CKMFFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFY9hWE.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Quebec 98.9[/COLOR]  
+https://18123.live.streamtheworld.com/CHIKFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1b33js.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Rimouski-Amqui 98.7-93.9[/COLOR]  
+https://15903.live.streamtheworld.com/CIKIFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDpA7bG.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Rouyn-Noranda-La Sarre 99.1-92.5[/COLOR]  
+https://18133.live.streamtheworld.com/CJMMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSthDQW.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Saguenay 94.5[/COLOR]  
+https://20263.live.streamtheworld.com/CJABFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYxLhFI.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Trois-Rivieres 102.3[/COLOR]  
+https://17443.live.streamtheworld.com/CIGBFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tVWPuH.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Val-d'Or 102.7[/COLOR]  
+https://20263.live.streamtheworld.com/CJMVFMAAC.aac
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51W9VBq.png" group-title="Bell Media"Radio QC,★★★★★★★★★★[COLOR red]Rouge FM[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GPUZmB.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Amqui 99.9[/COLOR]
+https://17343.live.streamtheworld.com/CFVMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jh0vbk.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Drummondville 105.3[/COLOR]
+https://18363.live.streamtheworld.com/CHRDFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sG501KI.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Gatineau-ottawa 94.9[/COLOR]
+https://20263.live.streamtheworld.com/CIMFFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iz59VNG.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Montreal 107.3[/COLOR]
+https://19293.live.streamtheworld.com/CITEFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HmxwEj.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Quebec 107.5[/COLOR]
+https://20793.live.streamtheworld.com/CITFFMAACTEST_48.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjx6lLE.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Rimouski 102.9[/COLOR]
+https://17443.live.streamtheworld.com/CJOIFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqgw3Iu.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Saguenay 96.9[/COLOR]
+https://17343.live.streamtheworld.com/CFIXFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDGfmzU.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Sherbrooke 102.7[/COLOR]
+https://17613.live.streamtheworld.com/CITE1FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D65EJMR.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Trois-Rivieres 94.7[/COLOR]
+https://18123.live.streamtheworld.com/CHEYFMAAC.aac

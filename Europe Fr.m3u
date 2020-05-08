@@ -86,6 +86,7 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w16838
 #EXTINF:-1 tvg-id="France" tvg-name="BipTV" tvg-logo="https://i.imgur.com/YFEqBS7.png"group-title="France",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 
+# update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Français",BOING Français
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 
@@ -186,7 +187,7 @@ https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac
 https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8
 
 # update link : #
-#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
+#EXTINF:-1 tvg-id="France" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3 ND
 http://iptv7.premium-stv.com:25461/live/gnsportfrshtf1/fqzo522Da264/4.m3u8
 
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Français",France 3 (opt-2)
@@ -314,7 +315,7 @@ https://edge-07.playmedia-cdn.net/origin02/amlst:i24-news/playlist.m3u8
 
 # update link : https://www.idf1.fr/live #
 #EXTINF:-1 tvg-id="France" tvg-name="IDF1" tvg-logo="https://i.ibb.co/vmqvVTd/idf1.png" group-title="France",IDF1 (update daily)
-https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/master.m3u8?hdnea=st=1588389498~exp=1588389898~acl=/i/dclive_1@103544*~hmac=2a40158476cd7ad6f30702c5c603ddc0d5afec465688565bc61d126874784b9d
+https://dcunilive1-lh.akamaihd.net/i/dclive_1@103544/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1588983845~acl=%2fi%2fdclive_1%40103544*~data=hdntl~hmac=327f7ff4aadceb8a3bcc12d56c83b77cdd7429ca29569e44a44a5ebe8dea09be
 
 # update link : #
 #EXTINF:-1 tvg-id="France" tvg-name="ILTV" tvg-logo="https://i.ibb.co/Sf6FDkV/ILTV.png" group-title="France",ILTV
@@ -466,6 +467,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x797sy0
 #EXTINF:-1 tvg-id="France" tvg-name="StudioQualita" tvg-logo="https://i1.sndcdn.com/avatars-000312584857-l11mj7-t500x500.jpg" group-title="France",StudioQualita (YT)
 plugin://plugin.video.youtube/play/?video_id=rtUqWeZH3LA
 
+# update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Français",Super Yatch TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 
@@ -485,6 +487,7 @@ plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x128fjo
 #EXTINF:-1 tvg-id="France" tvg-name="Télénantes" tvg-logo="https://www.telenantes.com/sites/all/themes/bootstrap/logo.png" group-title="France",Télénantes (DM)
 plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x5so98l
 
+# update link : #
 #EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="Français",Téva
 http://51.15.3.161:8080/Teva/index.m3u8?token=test
 
@@ -691,6 +694,18 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 https://media01.webtvlive.eu/rtc-edge/_definst_/smil:live.smil/chunklist_w1270237425_b8256000_DVR_tkdG9rZW5lbmR0aW1lPTE1ODc5NTQxMzAmdG9rZW5zdGFydHRpbWU9MTU4Nzk0MzMzMCZ0b2tlbmhhc2g9UkM2bXlYM1lRV1M4cUN5YzZ4YThVekFxZXNSR2hrbkl0ZjZKYU9lLUZwUT0=.m3u8
 
 # update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Une" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Une
+https://rtbf.l3.freecaster.net/live/rtbf/geo/open/f252363574bc3708f9d58a351066da362d739a84/laune-audio_1=128000-video=2000000.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Deux" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Deux
+https://rtbf.l3.freecaster.net/live/rtbf/geo/open/012547ec984802a41c6cc2b2e4c81efdf8eff450/ladeux-audio_1=128000-video=2000000.m3u8
+
+# update link : #
+#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
+https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
+
+# update link : #
 #EXTINF:-1 tvg-id="Belgique" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-group-title="",RTL-TVi
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 
@@ -733,12 +748,13 @@ https://edge8.vedge.infomaniak.com/livecast/ik:livehd/chunklist_w1977644832.m3u8
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Canal Alpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",Canal Alpha
 https://edge6.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1815884040_b2500000.m3u8
 
+# update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="CanalAlpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Suisse",CanalAlpha Jura bernois
 http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 # update link :https://www.tikilive.com/channel/ch-music-tv #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="Ch Music" tvg-logo="https://i.ibb.co/9w7kJ2y/Ch-Music.png" group-title="Suisse",Ch Music update everyday
-https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w1901883967_b1071086.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPXUwaGE3b2cydG9kY2ZlMzd0NjI1dGRsbGcwJnVJRD0wJnVOYW1lPUd1ZXN0OGUzZTQ%3D&id=Cfk0WlplD8ANevYJAEC5
+https://edge2.tikilive.com:8443/html5_tikilive/36199/amlst:mainstream/chunklist_w809983253_b1052136.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2MTk5JmNOYW1lPUNIJTIwTXVzaWMlMjBUViZvSUQ9MTI3OTAxJm9OYW1lPWxhYmVsdHYmc0lkPTRza2VzYnVsNzA2bjA3ZWk4cWZjM292c2hoJnVJRD0wJnVOYW1lPUd1ZXN0ZDAwMzQ%3D&id=-sXAW6PuInSIukeZAMyn
 
 # update link : #
 #EXTINF:-1 tvg-id="Suisse" tvg-name="RTS Couleur" tvg-logo="https://i.ibb.co/1qgfKr4/c300.png" group-title="Belgique",RTS Couleur

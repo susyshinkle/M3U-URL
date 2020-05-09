@@ -1,0 +1,169 @@
+﻿#EXTM3U
+
+## Made By Sphinxroot QC ##
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lNrOvY.png",★★★★★★★★★★★★★★★★★★★★[COLOR gold]Radio-Canada[/COLOR]★★★★★★★★★★★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/ICITELE.png?raw=true",★★★★★★★★★★[COLOR orchid]ICI Tele[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-RDI.png?raw=true" group-title="Canadian TV",ICI RDI 
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Acadie
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele CB-Yukon
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Est-Quebec
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Mauricie
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="Canadian TV",ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Ottawa-Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Quebec
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Saguenay
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada",ICI Tele Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+
+#####################
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/ICIMusic.png?raw=true" group-title="ICI Music",★★★★★★★★★★[COLOR orchid]ICI Musique[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Montreal
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Ottawa
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Moncton
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Edmonton
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Vancouver
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Rimouski
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Sherbrooke
+https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Winipeg
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Trois-Rivieres
+https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Quebec
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Saguenay
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Sudbury
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Toronto
+https://rcavliveaudio.akamaized.net/hls/live/2006991/M-7OTOR0_TOR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/ICIMUSICCLA.png?raw=true" group-title="ICI Music",ICI Musique Classique
+https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/playlist.m3u8
+
+#########
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/IciPremiere.png?raw=true" group-title="ICI Premiere",★★★★★★★★★★[COLOR orchid]ICI Premiere[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Abitibi-Temiscamingue(Rouin-Noranda)
+https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Alberta(Edmonton)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Bas-Saint-Laurent(Rimouski)
+https://rcavliveaudio.akamaized.net/hls/live/2006651/P-2QRIM0_RIM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Colombie-Britannique-Yukon(Vancouver)
+https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Cote-Nord(Sept-Iles)
+https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Estrie(Sherbrooke)
+https://rcavliveaudio.akamaized.net/hls/live/2006971/P-2QSHE0_SHE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Gaspesie-Iles-de-la-Madeleine(Matane)
+https://rcavliveaudio.akamaized.net/hls/live/2006951/P-2QMAT0_MAT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Ile-du-Prince-Edouard(Charlottetown)
+https://rcavliveaudio.akamaized.net/hls/live/2006948/P-2EMCT3_CHR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Manitoba(Winipeg)
+https://rcavliveaudio.akamaized.net/hls/live/2006977/P-2MWIN0_WIN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Mauricie-Centre-du-Quebec(Trois-Rivieres)
+https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Montreal
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Nord de L Ontario(Sudbury)
+https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Nouveau-Brunswick(Moncton)
+https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Nouvelle-Ecosse(Halifax)
+https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Ottawa-Gatineau
+https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Quebec
+https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Saguenay-Lac-Saint-Jean
+https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Saskatchewan(Regina)
+https://rcavliveaudio.akamaized.net/hls/live/2006954/P-2SREG0_REG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Terre-Neuve-Et-Labrador(Halifax)
+https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Toronto
+https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Windsor
+https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/playlist.m3u8
+
+##end##

@@ -1,0 +1,98 @@
+﻿#EXTM3U
+
+## Made By Sphinxroot QC ##
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/31rNkcM.png" group-title="Cogeco Média Radio"Radio QC,★★★★★★★★★★[COLOR gold]Cogeco Média Radio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8l7o3wv.png" group-title="Cogeco Média Radio"Radio QC,CFGE-FM Rythme FM 93.7-98.1 Sherbrooke / Magog
+https://cogecomedia.leanstream.co/cogecomedia/CFGEFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLi48aW.png" group-title="Cogeco Média Radio"Radio QC,CJEB-FM Rythme FM 100.1 Trois-Rivieres 
+https://cogecomedia.leanstream.co/cogecomedia/CJEBFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xuw3Lxn.png" group-title="Cogeco Média Radio"Radio QC,CFGL-FM Rythme FM 105.7 Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CFGLFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOpFiF9.png" group-title="Cogeco Média Radio"Radio QC,CJMF-FM - 93.3 FM  Quebec
+https://cogecomedia.leanstream.co/cogecomedia/CJMFFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhckfhq.png" group-title="Cogeco Média Radio"Radio QC,CHMP-FM - 98.5 FM  Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CHMPFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OBAWyU.png" group-title="Cogeco Média Radio"Radio QC,CKOF-FM - 104.7 FM  Gatineau
+https://cogecomedia.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gnbuMAe.png" group-title="Cogeco Média Radio"Radio QC,CKOB-FM - 106.9 FM  Trois-Rivieres
+https://cogecomedia.leanstream.co/cogecomedia/CKOBFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/odd6FZa.png" group-title="Cogeco Média Radio"Radio QC,CKOY-FM - 107.7 FM  Sherbrooke
+https://cogecomedia.leanstream.co/cogecomedia/CKOYFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3l3M2eP.png" group-title="Cogeco Média Radio"Radio QC,CKAC - Radio Circulation 730 AM Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CKACAM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bqmd9Ak.png" group-title="Cogeco Média Radio"Radio QC,CKLX-FM Sports 91.9 FM  Montreal
+https://stream.919sports.ca/cklx.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lb0sPs0.png" group-title="Cogeco Média Radio"Radio QC,CJEC-FM Wknd 91.9 FM Quebec
+http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lockk1p.png" group-title="Cogeco Média Radio"Radio QC,CKBE-FM The Beat 92.5 FM  Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CKBEFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zF0Lhul.png" group-title="Cogeco Média Radio"Radio QC,CKYK-FM KYK  95.7 FM Chicoutimi
+https://cogecomedia.leanstream.co/cogecomedia/CKYKFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1kZmVte.png" group-title="Cogeco Média Radio"Radio QC,CHGO-FM Capitale Rock 95.7 FM /104.3 FM /102.1 FM Val-d'Or Rouyn-Noranda
+https://cogecomedia.leanstream.co/cogecomedia/CJGOFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44dMnwA.png" group-title="Cogeco Média Radio"Radio QC,CFTX-FM Pop 96,5 FM Gatineau	
+https://stream.pop965.ca/cftx.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIoPN6b.png" group-title="Cogeco Média Radio"Radio QC,CKOI-FM CKOI 96.9 Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CKOIFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZj2VCX.png" group-title="Cogeco Média Radio"Radio QC,CHOI-FM RadioX 98.1 FM Quebec
+https://lb0-stream.radiox981.ca/choi.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olKi6nw.png" group-title="Cogeco Média Radio"Radio QC,CHXX-FM Lavibe 100.9 FM Quebec
+https://stream.lavibe.fm/chxx.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGoCeDp.png" group-title="Cogeco Média Radio"Radio QC,CIME-FM  CIME  101.3 FM /103.9 FM Saint-Jerome / Mont-Tremblant
+https://cogecomedia.leanstream.co/cogecomedia/CIMEFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNoLAfH.png" group-title="Cogeco Média Radio"Radio QC,CFEL-FM BLVD 102.1 FM  Levis
+http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3T07NDY.png" group-title="Cogeco Média Radio"Radio QC,CFOM-FM M FM 102.9 Quebec
+https://cogecomedia.leanstream.co/cogecomedia/CFOMFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6hzz2I.png" group-title="Cogeco Média Radio"Radio QC,CKXO-FM Planete 93.5 FM Chibougamau
+https://cogecomedia.leanstream.co/cogecomedia/CKXOFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bER7S3R.png" group-title="Cogeco Média Radio"Radio QC,CHRL-FM  Planete 99.5 FM Roberval
+https://cogecomedia.leanstream.co/cogecomedia/CHRLFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcBmD3l.png" group-title="Cogeco Média Radio"Radio QC,CHVD-FM Planete 100.3 FM Dolbeau-Mistassini
+https://cogecomedia.leanstream.co/cogecomedia/CHVDFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYR2kia.png" group-title="Cogeco Média Radio"Radio QC,CFGT-FM Planete 104.5 FM Alma
+https://cogecomedia.leanstream.co/cogecomedia/CFGTFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUVd134.png" group-title="Cogeco Média Radio"Radio QC,CHOA-FM WOW 96.5 FM /103.5 FM /103.9 FM   Rouyn-Noranda/Val-d'Or/La Sarre
+https://cogecomedia.leanstream.co/cogecomedia/CHOAFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvlEEq9.png" group-title="Cogeco Média Radio"Radio QC,CHLX-FM WOW 97.1 FM Gatineau
+https://stream.wow971.ca/chlx.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olNypFw.png" group-title="Cogeco Média Radio"Radio QC,CJLA-FM WOW 104.9 FM /102.1 FM Lachute / Hawkesbury
+https://cogecomedia.leanstream.co/cogecomedia/CJLAFM.stream/playlist.m3u8
+
+
+
+
+
+
